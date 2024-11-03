@@ -17,3 +17,5 @@
 - [concat](https://pandas.pydata.org/docs/reference/api/pandas.concat.html?highlight=concat)
 - [join](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.join.html)
 - [append](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.append.html)
+- [isin](https://www.geeksforgeeks.org/python-pandas-dataframe-isin/)
+- [between](https://www.w3resource.com/pandas/series/series-between.php)
